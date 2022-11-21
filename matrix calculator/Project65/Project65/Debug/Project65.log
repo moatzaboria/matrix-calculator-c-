@@ -1,0 +1,26 @@
+﻿  Source.c
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(10,2): warning C4091: 'typedef ': ignored on left of 'Matrix' when no variable is declared
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(18,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(29,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(40,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(53,16): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(84,26): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(96,25): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(107,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(124,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(134,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(141,21): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(142,20): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(156,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(169,33): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(173,10): warning C4047: 'return': 'Matrix *' differs in levels of indirection from 'Matrix **'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(202,19): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(246,31): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(254,35): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(261,35): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(268,35): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(275,34): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(275,29): warning C4024: 'Pow_Matrix': different types for formal and actual parameter 3
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(275,36): warning C4020: 'Pow_Matrix': too many actual parameters
+C:\Users\ebraheem\source\repos\Project65\Project65\Source.c(275,42): warning C4047: '=': 'Matrix **' differs in levels of indirection from 'Matrix *'
+  Project65.vcxproj -> C:\Users\ebraheem\source\repos\Project65\Debug\Project65.exe
